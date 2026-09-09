@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Digital Garden
+tags:
+    - Digital-Garden
+date: 2026-09-08
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+デジタル・ガーデンというものがあって、なんかいいなと思って、始めてみるものです。事情により一人称が👾です。
